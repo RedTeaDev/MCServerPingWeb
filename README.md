@@ -1,5 +1,5 @@
 # MCServerPingWeb
-a MCServerPing Rest API
+a [MCServerPing](https://github.com/RedCokeDevelopment/MCServerPing) Rest API
 
 ----
 
